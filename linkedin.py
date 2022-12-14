@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 
 #loading data file
-s = pd.read_csv("C:/Users/19496/Desktop/Module 2/social_media_usage.csv")
+s = pd.read_csv("C:C:\Users\19496\my_projectNK\social_media_usage.csv")
 
 
 #import, clean data
